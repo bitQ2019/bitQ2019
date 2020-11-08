@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+
+**React, Redux, Rxjs**
+
+**Graphql, Typescript...**
+
+- 🌱 I’m currently learning ...
+
+**Machine Learning with ❤️**
+
+
+- 👯 I’m looking to collaborate on ...
+
+Create amazing tools, apps or even company...
+
+
+- 🤔 I’m looking for help with ...
+
+Not yet
+
+
+- 💬 Ask me about ...
+
+Every thing about life
+
+
+- 📫 How to reach me: ...
+
+[Gmail](mailto:name@domain )
+
+
+- 😄 Pronouns: ...
+
+
+- ⚡ Fun fact: ...
+
+
+
