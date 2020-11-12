@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 **React, Redux, Rxjs**
 
-**Graphql, Typescript...**
+**Graphql, Typescript Mongodb Koa...**
+
 
 - 🌱 I’m currently learning ...
 
@@ -28,28 +29,22 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 
-Create amazing tools, apps or even company...
+Creating amazing tools, apps or even company...
 
+- ⚡ One more thing
 
-- 🤔 I’m looking for help with ...
+I am also 
 
-Not yet
+**Investing in stocks**
+**Fascinating in looking for good company at a good price** 
 
-
-- 💬 Ask me about ...
-
-Every thing about life
-
+a father
+a badminton player
+a mid-age men who would like to change the world a little bit...
 
 - 📫 How to reach me: ...
 
-[Gmail](mailto:name@domain )
-
-
-- 😄 Pronouns: ...
-
-
-- ⚡ Fun fact: ...
+[Gmail](mailto:bitiqueue@gmail.com )
 
 
 
