@@ -35,9 +35,6 @@ Creating amazing tools, apps or even company...
 
 I am also 
 
-**Investing in stocks**
-
-**Fascinating in looking for good company at a good price** 
 
 a father
 
