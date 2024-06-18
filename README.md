@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-**React, Redux, Rxjs**
+**Multidimensional Table**
+using 
+**React, Nodejs, Typescirpt**
 
-**Graphql, Typescript Mongodb Koa...**
 
-
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 
 **Everything with ❤️**
 
@@ -45,7 +45,7 @@ a mid-age men who would like to change the world a little bit...
 
 - 📫 How to reach me: ...
 
-[Gmail](mailto:bitiqueue@gmail.com )
+[Gmail](mailto:mengqiang.q@gmail.com )
 
 
 
